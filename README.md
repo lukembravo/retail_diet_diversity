@@ -1,5 +1,5 @@
 # Retail Diet Diversity
-![energy_anomaly_detection.jpg](https://i.imgur.com/7bamvQA.jpg)
+![retail_diet_diversity.jpg](https://i.imgur.com/1Oz71ud.jpg)
 
 In this methods-focused project, our group used several types correlation and regression analyses, tuned parameters for a multilayered perceptron model, and more. If we can identify key characteristics shared among the most successful stores across two Hanoi districts, we can build a model for profitability and longevity, and predict the success of new entrants or future ventures. 
 
