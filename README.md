@@ -11,7 +11,7 @@ Using both machine suggestions (e.g., recursive feature elimination) and our own
 [`Harvard Dataverse`](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZWBUEK)  
 
 ### Our Code 
-[`Correlation & Regression Analyses`](https://github.com/lukembravo/retail_diet_diversity/blob/master/Code/01%20Correlation%20%26%20regression%20analysis.R) [`Principal Component Analysis`](https://github.com/lukembravo/retail_diet_diversity/blob/master/Code/03%20PCA.ipynb) [`Multilayer Perceptron Optimization, EDA, & RFE`](https://github.com/lukembravo/retail_diet_diversity/blob/master/Code/04%20EDA%20%26%20MLPR%20based%20on%20Correlations%20and%20RFE.ipynb)
+[`Correlation & Regression Analyses`](https://github.com/lukembravo/retail_diet_diversity/blob/master/Code/01%20Correlation%20%26%20regression%20analysis.R) [`Principal Component Analysis`](https://github.com/lukembravo/retail_diet_diversity/blob/master/Code/03%20PCA.ipynb) [`MLPR Optimization, EDA, & RFE`](https://github.com/lukembravo/retail_diet_diversity/blob/master/Code/04%20EDA%20%26%20MLPR%20based%20on%20Correlations%20and%20RFE.ipynb)
 
 ### Our Team
 Luke Bravo: [`LinkedIn`](https://www.linkedin.com/in/luke-bravo/)  
